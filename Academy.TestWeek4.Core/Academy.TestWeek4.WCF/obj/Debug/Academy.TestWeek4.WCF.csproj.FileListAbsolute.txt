@@ -1,0 +1,7 @@
+C:\Users\mariangela.leone\Desktop\Academy.TestWeek4\Academy.TestWeek4.Core\Academy.TestWeek4.WCF\bin\Debug\Academy.TestWeek4.WCF.dll.config
+C:\Users\mariangela.leone\Desktop\Academy.TestWeek4\Academy.TestWeek4.Core\Academy.TestWeek4.WCF\bin\Debug\Academy.TestWeek4.WCF.dll
+C:\Users\mariangela.leone\Desktop\Academy.TestWeek4\Academy.TestWeek4.Core\Academy.TestWeek4.WCF\bin\Debug\Academy.TestWeek4.WCF.pdb
+C:\Users\mariangela.leone\Desktop\Academy.TestWeek4\Academy.TestWeek4.Core\Academy.TestWeek4.WCF\obj\Debug\Academy.TestWeek4.WCF.csprojAssemblyReference.cache
+C:\Users\mariangela.leone\Desktop\Academy.TestWeek4\Academy.TestWeek4.Core\Academy.TestWeek4.WCF\obj\Debug\Academy.TestWeek4.WCF.csproj.CoreCompileInputs.cache
+C:\Users\mariangela.leone\Desktop\Academy.TestWeek4\Academy.TestWeek4.Core\Academy.TestWeek4.WCF\obj\Debug\Academy.TestWeek4.WCF.dll
+C:\Users\mariangela.leone\Desktop\Academy.TestWeek4\Academy.TestWeek4.Core\Academy.TestWeek4.WCF\obj\Debug\Academy.TestWeek4.WCF.pdb

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kUeloAjZGhBMUQQfNxGQsc2Y8rU89nOD8JKEsgFnRAf9ZAtagLE+ZYQ1+DpNNMWtruyypBTyB2cAv4EH7TeHAA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mariangela.leone\\Desktop\\Academy.TestWeek4\\Academy.TestWeek4.Core\\Academy.TestWeek4.Core\\Academy.TestWeek4.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mariangela.leone\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\mariangela.leone\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

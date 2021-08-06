@@ -1,0 +1,8 @@
+C:\Users\mariangela.leone\Desktop\Academy.TestWeek4\Academy.TestWeek4.Core\Academy.TestWeek4.API\obj\Debug\netcoreapp3.1\Academy.TestWeek4.API.csprojAssemblyReference.cache
+C:\Users\mariangela.leone\Desktop\Academy.TestWeek4\Academy.TestWeek4.Core\Academy.TestWeek4.API\obj\Debug\netcoreapp3.1\Academy.TestWeek4.API.AssemblyInfoInputs.cache
+C:\Users\mariangela.leone\Desktop\Academy.TestWeek4\Academy.TestWeek4.Core\Academy.TestWeek4.API\obj\Debug\netcoreapp3.1\Academy.TestWeek4.API.AssemblyInfo.cs
+C:\Users\mariangela.leone\Desktop\Academy.TestWeek4\Academy.TestWeek4.Core\Academy.TestWeek4.API\obj\Debug\netcoreapp3.1\Academy.TestWeek4.API.csproj.CoreCompileInputs.cache
+C:\Users\mariangela.leone\Desktop\Academy.TestWeek4\Academy.TestWeek4.Core\Academy.TestWeek4.API\obj\Debug\netcoreapp3.1\Academy.TestWeek4.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mariangela.leone\Desktop\Academy.TestWeek4\Academy.TestWeek4.Core\Academy.TestWeek4.API\obj\Debug\netcoreapp3.1\Academy.TestWeek4.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mariangela.leone\Desktop\Academy.TestWeek4\Academy.TestWeek4.Core\Academy.TestWeek4.API\obj\Debug\netcoreapp3.1\Academy.TestWeek4.API.dll
+C:\Users\mariangela.leone\Desktop\Academy.TestWeek4\Academy.TestWeek4.Core\Academy.TestWeek4.API\obj\Debug\netcoreapp3.1\Academy.TestWeek4.API.pdb

@@ -1,0 +1,4 @@
+C:\Users\mariangela.leone\Desktop\Academy.TestWeek4\Academy.TestWeek4.Core\Academy.TestWeek4.APIClient\obj\Debug\netcoreapp3.1\Academy.TestWeek4.APIClient.csprojAssemblyReference.cache
+C:\Users\mariangela.leone\Desktop\Academy.TestWeek4\Academy.TestWeek4.Core\Academy.TestWeek4.APIClient\obj\Debug\netcoreapp3.1\Academy.TestWeek4.APIClient.AssemblyInfoInputs.cache
+C:\Users\mariangela.leone\Desktop\Academy.TestWeek4\Academy.TestWeek4.Core\Academy.TestWeek4.APIClient\obj\Debug\netcoreapp3.1\Academy.TestWeek4.APIClient.AssemblyInfo.cs
+C:\Users\mariangela.leone\Desktop\Academy.TestWeek4\Academy.TestWeek4.Core\Academy.TestWeek4.APIClient\obj\Debug\netcoreapp3.1\Academy.TestWeek4.APIClient.csproj.CoreCompileInputs.cache

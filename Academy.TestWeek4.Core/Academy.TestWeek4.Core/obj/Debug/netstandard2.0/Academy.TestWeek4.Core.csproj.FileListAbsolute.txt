@@ -1,0 +1,9 @@
+C:\Users\mariangela.leone\Desktop\Academy.TestWeek4\Academy.TestWeek4.Core\Academy.TestWeek4.Core\obj\Debug\netstandard2.0\Academy.TestWeek4.Core.csprojAssemblyReference.cache
+C:\Users\mariangela.leone\Desktop\Academy.TestWeek4\Academy.TestWeek4.Core\Academy.TestWeek4.Core\obj\Debug\netstandard2.0\Academy.TestWeek4.Core.AssemblyInfoInputs.cache
+C:\Users\mariangela.leone\Desktop\Academy.TestWeek4\Academy.TestWeek4.Core\Academy.TestWeek4.Core\obj\Debug\netstandard2.0\Academy.TestWeek4.Core.AssemblyInfo.cs
+C:\Users\mariangela.leone\Desktop\Academy.TestWeek4\Academy.TestWeek4.Core\Academy.TestWeek4.Core\obj\Debug\netstandard2.0\Academy.TestWeek4.Core.csproj.CoreCompileInputs.cache
+C:\Users\mariangela.leone\Desktop\Academy.TestWeek4\Academy.TestWeek4.Core\Academy.TestWeek4.Core\bin\Debug\netstandard2.0\Academy.TestWeek4.Core.deps.json
+C:\Users\mariangela.leone\Desktop\Academy.TestWeek4\Academy.TestWeek4.Core\Academy.TestWeek4.Core\bin\Debug\netstandard2.0\Academy.TestWeek4.Core.dll
+C:\Users\mariangela.leone\Desktop\Academy.TestWeek4\Academy.TestWeek4.Core\Academy.TestWeek4.Core\bin\Debug\netstandard2.0\Academy.TestWeek4.Core.pdb
+C:\Users\mariangela.leone\Desktop\Academy.TestWeek4\Academy.TestWeek4.Core\Academy.TestWeek4.Core\obj\Debug\netstandard2.0\Academy.TestWeek4.Core.dll
+C:\Users\mariangela.leone\Desktop\Academy.TestWeek4\Academy.TestWeek4.Core\Academy.TestWeek4.Core\obj\Debug\netstandard2.0\Academy.TestWeek4.Core.pdb
